@@ -2,7 +2,7 @@
 
 I'm [**Edwin**](https://edwinmanalastas.github.io), a **third-year Computer Science student** at the **University of Alberta** 🇨🇦
 
-I am highly interested in full-stack development, and that was when I began to build a website for a company. Building it right from scratch sparked my interest in software development, ever since then, I was eager to learn new technologies and skills to improve. As a software engineer, I am committed to work hard to achieve my goal.
+I am highly interested in **full-stack development**, and that was when I began to build a website for a company. Building it right from scratch sparked my interest in software development, ever since then, I was eager to learn new technologies and skills to improve. As a software engineer, I am committed to work hard to achieve my goal.
 
 Outside of programming, I stay active through sports, music, and working out, while also enjoying video editing, gaming, and exploring new skills. I am always eager to dive into challenges—tech-related or otherwise!
 
